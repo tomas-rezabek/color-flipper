@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  border-radius: 8px;
+  margin: 1em;
+  padding: 1em;
+  border: none;
+}
+
+button:hover {
+  opacity: 80%;
+}
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+
+#random {
+  background-color: black;
+  color: white;
+}
+
